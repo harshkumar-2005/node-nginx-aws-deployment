@@ -145,19 +145,20 @@ Nginx is receiving traffic on port 80 and proxying it to Node.js on port 3000 �
 ## 📸 Screenshots
 
 ### EC2 SSH Connection
-![SSH into EC2](./screenshots/ssh-login.png)
+<img width="648" height="644" alt="image" src="https://github.com/user-attachments/assets/dce3240c-5edb-4ee8-9e90-53d64da78a80" />
 
 ### Node.js & Nginx Versions Verified
-![Versions](./screenshots/versions.png)
+<img width="831" height="160" alt="image" src="https://github.com/user-attachments/assets/23c44ccb-2864-4ad5-a24a-83a2fdfa3ba1" />
 
 ### Nginx Default Page (Server Live)
-![Nginx Live](./screenshots/nginx-live.png)
+<img width="1365" height="601" alt="image" src="https://github.com/user-attachments/assets/4415b419-6982-4cfd-bd88-573b7f5b6300" />
 
 ### PM2 Status — App Running
-![PM2 Status](./screenshots/pm2-status.png)
+<img width="1129" height="218" alt="image" src="https://github.com/user-attachments/assets/cdbfeb97-0218-48b7-9f22-ff600b50ab4d" />
+
 
 ### Node.js API Response via Public IP
-![API Response](./screenshots/api-response.png)
+<img width="515" height="329" alt="image" src="https://github.com/user-attachments/assets/90639e9a-b96d-40ea-bcb1-47c1d16ade55" />
 
 ---
 
